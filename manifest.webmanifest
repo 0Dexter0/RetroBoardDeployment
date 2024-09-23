@@ -1,6 +1,6 @@
 {
-  "name": "BlazorApp2",
-  "short_name": "BlazorApp2",
+  "name": "RetroBoard",
+  "short_name": "RetroBoard",
   "id": "./",
   "start_url": "./",
   "display": "standalone",
