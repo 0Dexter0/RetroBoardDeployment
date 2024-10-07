@@ -65,12 +65,16 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-1AN0Ae9sUMtN0AbkySc4vCO\/c\/92tWMdtQJEtYrHytU=",
+      "hash": "sha256-2Mq4wU+6cxMGvYJ4iVCJIwcokiYCXJFhSrDsmu\/uIXY=",
       "url": "_framework\/blazor.boot.json"
     },
     {
       "hash": "sha256-DXl738A3nveFxYK+NWkxvHdTmicdO6btBT\/VduMi0Co=",
       "url": "_framework\/BlazorBootstrap.wasm"
+    },
+    {
+      "hash": "sha256-nQXuCGHos7iwp2WxRUgarKmWgJYChaVQp2NajgNU3V8=",
+      "url": "_framework\/Blazored.SessionStorage.wasm"
     },
     {
       "hash": "sha256-H1yH7iBNYt\/rilvQT6qsv2frcFFOBUKBnRrGQ1AIHnI=",
@@ -201,11 +205,11 @@
       "url": "_framework\/netstandard.wasm"
     },
     {
-      "hash": "sha256-eKWVU3ArLh+bRw81gfq8bcNyF+fCvk5mykeoIQEopoE=",
+      "hash": "sha256-y\/F5KnJHGBTH7Fyfjn\/t3\/JXPnHKbTfmjzxiHG4BUNA=",
       "url": "_framework\/RetroBoard.Shared.wasm"
     },
     {
-      "hash": "sha256-CvWwGY\/6FsFEQrmviOkK\/CFl4VNnlBVplljy9B2orEY=",
+      "hash": "sha256-wb4iJ1W7MLLNjyrITpTEyMX1wamHQb2TbjaCzFYrOD0=",
       "url": "_framework\/RetroBoard.wasm"
     },
     {
@@ -897,5 +901,5 @@
       "url": "_content\/MudBlazor\/MudBlazor.min.js"
     }
   ],
-  "version": "kOXpDF+y"
+  "version": "kpSah3xn"
 };
