@@ -5,7 +5,7 @@
       "url": "RetroBoard.styles.css"
     },
     {
-      "hash": "sha256-JOZWd9XYwDyrwjSB0PVTcc602GisYED21qQUCSMlGtI=",
+      "hash": "sha256-KwiAXBRyDUiPs+vbLisBzngcVxoNWxV0iVWrB+Nmm2Y=",
       "url": "css\/app.css"
     },
     {
@@ -21,12 +21,16 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-1WKKLhnyTWPRQC9al2sc2jC7Ril+Xio7el8mkfWuXWI=",
+      "hash": "sha256-xZn6cHqUXt27GBaQfIJS0GmRNNR7pdXKtR9lnSrR1Mo=",
       "url": "index.html"
     },
     {
       "hash": "sha256-J+KLJyH3c9x7qJOo0GfpshIvWxRFCYbMLi0PWcTx6hE=",
       "url": "manifest.webmanifest"
+    },
+    {
+      "hash": "sha256-\/kal0t\/\/tWd+rQqt\/YVkurQSQ+WA5W3jM22yNiXjCnw=",
+      "url": "scripts.js"
     },
     {
       "hash": "sha256-rcIWTVNnYus6VWf2Z2U1g\/JzlC07Ym02cFjHtI59Xsc=",
@@ -61,12 +65,16 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-EDhdZ+5L9b0QTTHpfJII4gIyl3H4cOBchYOalMM\/xUM=",
+      "hash": "sha256-qTBUcJoDaZSrxwI+7CGcBuOXCPUgAyWDLlp0v2bl+Pc=",
       "url": "_framework\/blazor.boot.json"
     },
     {
       "hash": "sha256-DXl738A3nveFxYK+NWkxvHdTmicdO6btBT\/VduMi0Co=",
       "url": "_framework\/BlazorBootstrap.wasm"
+    },
+    {
+      "hash": "sha256-OaMAAd5n7ORfyur5e3QIyEVKJ76MKIvwbg7\/icnnYcU=",
+      "url": "_framework\/Blazored.LocalStorage.wasm"
     },
     {
       "hash": "sha256-nQXuCGHos7iwp2WxRUgarKmWgJYChaVQp2NajgNU3V8=",
@@ -201,11 +209,11 @@
       "url": "_framework\/netstandard.wasm"
     },
     {
-      "hash": "sha256-GMIaLDkufiegOzhhkXvHSn0z5GFYeqBY6weRx7ahUrw=",
+      "hash": "sha256-Zd18pkmJ1tgACnWf1mCy6WNLIDx6udbPzowUsi8AYkE=",
       "url": "_framework\/RetroBoard.Shared.wasm"
     },
     {
-      "hash": "sha256-UWLr9Pe232ygzmm4MD5U3AvsssEYLuyfCa1I0zqdy8o=",
+      "hash": "sha256-8WoV0HafBX6Ri9kX9+9jd2WghqSPC2sRJGuuhAnrDAY=",
       "url": "_framework\/RetroBoard.wasm"
     },
     {
@@ -897,5 +905,5 @@
       "url": "_content\/MudBlazor\/MudBlazor.min.js"
     }
   ],
-  "version": "A+t18gQ7"
+  "version": "SJkYPb4Y"
 };
