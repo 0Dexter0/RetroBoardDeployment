@@ -21,7 +21,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-xZn6cHqUXt27GBaQfIJS0GmRNNR7pdXKtR9lnSrR1Mo=",
+      "hash": "sha256-fnDyI6JeJMoeuwztIDMaek0Jn1vydWuZ95KWBZxQeBo=",
       "url": "index.html"
     },
     {
@@ -65,7 +65,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-qTBUcJoDaZSrxwI+7CGcBuOXCPUgAyWDLlp0v2bl+Pc=",
+      "hash": "sha256-BeakjZ0Y2lG\/ft9wikMtjKX7ptOTi\/ZFToD\/mF56nOI=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -209,11 +209,11 @@
       "url": "_framework\/netstandard.wasm"
     },
     {
-      "hash": "sha256-Zd18pkmJ1tgACnWf1mCy6WNLIDx6udbPzowUsi8AYkE=",
+      "hash": "sha256-b3m4DCD5Ng9l2oCRq\/yfjAU\/g7xLG87dIV06XH\/+eEU=",
       "url": "_framework\/RetroBoard.Shared.wasm"
     },
     {
-      "hash": "sha256-8WoV0HafBX6Ri9kX9+9jd2WghqSPC2sRJGuuhAnrDAY=",
+      "hash": "sha256-BzhbtLmt87vX9mOoGQsvAnz\/zXEC1ie6p0bvM5cK4OY=",
       "url": "_framework\/RetroBoard.wasm"
     },
     {
@@ -905,5 +905,5 @@
       "url": "_content\/MudBlazor\/MudBlazor.min.js"
     }
   ],
-  "version": "SJkYPb4Y"
+  "version": "D9\/bsnpD"
 };
