@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "RetroBoard",
   "resources": {
-    "hash": "sha256-69t8DutNSJlurEh+CcwwbYoGCbrVxuiy0lYR5z98Jf8=",
+    "hash": "sha256-cKUpn9QXpwDnATTUUeZMgKtsNs7gsRxkDsjTZSZO9k4=",
     "jsModuleNative": {
       "dotnet.native.8.0.5.b4tohikwpn.js": "sha256-boyHe+0RMZDkzBKGhsrnXPhPg3oZ6UqJnTUzngJPjNY="
     },
@@ -52,8 +52,8 @@
       "mscorlib.wasm": "sha256-XvLAB5IyfVSmj5aaGnPwgVFaaZz8jXmbN8WmeopiPBM=",
       "MudBlazor.wasm": "sha256-+6sc9t3KRXuYF8Q0j0JL08wP6j51Vkp58oNHjoHFvr0=",
       "netstandard.wasm": "sha256-TbMssdnuTiKq1gjTPkpgROAuWN0uhvPnagvWR+wAgNs=",
-      "RetroBoard.Shared.wasm": "sha256-b3m4DCD5Ng9l2oCRq/yfjAU/g7xLG87dIV06XH/+eEU=",
-      "RetroBoard.wasm": "sha256-BzhbtLmt87vX9mOoGQsvAnz/zXEC1ie6p0bvM5cK4OY=",
+      "RetroBoard.Shared.wasm": "sha256-ZkuqXWys4l4bBwGrUjla51gc8qQB7bvFs29dxjJQwjk=",
+      "RetroBoard.wasm": "sha256-mMLxcdAQ0clXnEjyGNMEv9oxvrLrhhBikDvPXHoa1GA=",
       "System.AppContext.wasm": "sha256-MmzR+uQDQ7aagldu8n7BjfQkWBHk46hWaY3QvCao0Es=",
       "System.Buffers.wasm": "sha256-v0E2w2iZayqWtBWgCZR/EzBCDCiKewW63wQsIlh5otM=",
       "System.Collections.Concurrent.wasm": "sha256-4qfSLtCreACjaSt0z3W/ARU42U/cPceq1mXytDcrgc8=",
